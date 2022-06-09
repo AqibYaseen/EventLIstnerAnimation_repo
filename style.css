@@ -1,0 +1,21 @@
+div{
+    background-color: blue;
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#innerDiv{
+    background-color: grey;
+    width: 800px;
+    height: 600px;
+    border: 3px solid black ;
+}
+
+#innerDiv2{
+    background-color: blue;
+    width: 300px;
+    height: 100px;
+    color:black;
+}
